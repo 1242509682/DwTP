@@ -1,0 +1,2 @@
+copy bin\Release\net6.0\dwTP.dll C:\Users\羽学\Desktop\Beta\ServerPlugins
+taskkill /F /IM TShock.Server.exe
